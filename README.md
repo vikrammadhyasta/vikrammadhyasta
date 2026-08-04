@@ -1,5 +1,4 @@
 # I'm Vikram Madhyasta 
-### Cloud & DevOps Engineer | AWS, Terraform, Kubernetes, GitOps
 
 I am a Cloud & DevOps Engineer specializing in infrastructure automation, continuous integration, and resilient GitOps architectures. I treat my personal projects like enterprise production environments—focusing on high availability, security, and lifecycle automation.
 
