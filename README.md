@@ -1,4 +1,8 @@
-# I'm Vikram Madhyasta 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF9900&center=true&vcenter=true&width=600&lines=Hi+I'm+Vikram+Madhyasta;" alt="Typing SVG" />
+  </a>
+</div>
 
 I am a Cloud & DevOps Engineer specializing in infrastructure automation, continuous integration, and resilient GitOps architectures. I treat my personal projects like enterprise production environments—focusing on high availability, security, and lifecycle automation.
 
